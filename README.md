@@ -10,9 +10,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&theme=gotham&hide_border=true&area=true)
 
 
-<div align="center">  
-<a href="www.instagram.com/valesk.33/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+
 
   ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
