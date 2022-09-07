@@ -7,6 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=true&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&theme=gotham&hide_border=true&area=true)
 
 
 <div align="center">  
@@ -21,6 +22,12 @@
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+ 
+
+
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+
 
