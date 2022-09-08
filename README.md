@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=true&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=9D4EDD&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
 
 
 
