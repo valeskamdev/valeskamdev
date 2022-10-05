@@ -2,19 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'am+Valeska;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=valeskamdev&show_icons=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=7B2CBF&text_color=00bfbf&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=true&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
-</div>
+
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/valeskamdev?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=C77DFF&Ring=C77DFF)](https://git.io/awesome-stats-card)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
+
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
 
 
 
-
   ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+
   ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
