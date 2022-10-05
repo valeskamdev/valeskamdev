@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'am+Valeska;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/valeskamdev?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=C77DFF&Ring=C77DFF)](https://git.io/awesome-stats-card)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/valeskamdev?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=C77DFF&Ring=C77DFF&width="41%"&height="195px")](https://git.io/awesome-stats-card)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
 
 
