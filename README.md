@@ -13,7 +13,9 @@
 
 
   ### Studying in this moment:
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  
+ 
 
   ### Tools:
   ![Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
