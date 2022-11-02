@@ -18,8 +18,7 @@
 
   ### Tools:
 <!--[Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp; -->
-![macOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![Intellinj IDEA](https://img.shields.io/badge/IntelliJ_IDEA-5a3b76.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![macOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp; ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-5a3b76.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5a3b76?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-5a3b76?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
