@@ -14,16 +14,13 @@
 
   ### Studying in this moment:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
-  
  
 
   ### Tools:
-  ![Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+<!--[Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp; -->
+![MacOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![Visual Studio Code](	https://img.shields.io/badge/Visual_Studio_Code-5a3b76?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Intellinj IDEA](https://img.shields.io/badge/IntelliJ_IDEA-5a3b76.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-5a3b76?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
- 
