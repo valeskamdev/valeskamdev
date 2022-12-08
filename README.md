@@ -6,10 +6,13 @@
   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/valeskamdev?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=C77DFF&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskamdev&layout=compact&hide_border=false&border_color=C77DFF&title_color=9D4EDD&text_color=00bfbf&bg_color=0d1117" />
 <div/>
+  
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
+  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
 
-[midnight-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=valeskamdev&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple
+[midnight-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=valeskamdev&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple. -->
 
 
   ### Studying in this moment:
