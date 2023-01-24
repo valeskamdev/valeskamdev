@@ -9,7 +9,7 @@
   
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
   
-<!--! peffr[Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=tru
+<!--! fr[Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=tru
 
 p[midnight-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=valeskamdev&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple. -->
 
