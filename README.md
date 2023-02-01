@@ -9,7 +9,7 @@
   
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)
   
-<!--! [Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=tru
+<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=valeskamdev&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Valeska%20Marques's%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=tru
 
 p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username=valeskamdev&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple. -->
 
@@ -37,7 +37,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
 </p>
   
 <!--[Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-  ![macOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+  ![macOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp; 
   ![GitHub](https://img.shields.io/badge/GitHub-5a3b76?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-5a3b76.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5a3b76?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp; -->
