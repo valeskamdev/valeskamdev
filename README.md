@@ -29,7 +29,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
   </a>
 </p>
   
- <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/> -->
+ <!--<imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/> -->
 
   ### Tools:
   
