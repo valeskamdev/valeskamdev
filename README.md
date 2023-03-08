@@ -37,7 +37,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
 <!--idea-->
   </a>
 </p>
-  
+
 <!--[Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   ![macOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp; 
   ![GitHub](https://img.shields.io/badge/GitHub-5a3b76?style=for-the-badge&logo=github&logoColor=white)&nbsp;
