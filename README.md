@@ -37,7 +37,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode" />
 <!--idea-->
-  </a>
+<!--   </a>
 </p> -->
 
 <!--[Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
