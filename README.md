@@ -30,7 +30,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
 </p>
   
  <!--<imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/> -->
-
+<!-- 
   ### Tools:
   
   <p align="center">
@@ -38,7 +38,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
     <img src="https://skillicons.dev/icons?i=github,vscode" />
 <!--idea-->
   </a>
-</p>
+</p> -->
 
 <!--[Windows](https://img.shields.io/badge/Windows-5a3b76?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   ![macOS](https://img.shields.io/badge/mac%20os-5a3b76?style=for-the-badge&logo=apple&logoColor=white)&nbsp; 
