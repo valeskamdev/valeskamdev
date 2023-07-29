@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=130&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&animation=twinkling"/>
 👋  Olá, pessoal! Me chamo Valeska, uma admiradora da tecnologia e apaixonada por programação  <br><br>
 🎓  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) no Descomplica  <br><br>
 🐞  Meu foco e paixão estão em Desenvolvimento Back End <br><br>
