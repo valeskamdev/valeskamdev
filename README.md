@@ -9,7 +9,7 @@
   🌱 Estou constantemente em busca de conhecimento para aprimorar minhas habilidades  <br> <br>
     </td>
     <td>
-    <img height="300px" src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif" alt="Imagem animada">
+    <img src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif" alt="Imagem animada">
     </td>
   </tr>
 </table>
