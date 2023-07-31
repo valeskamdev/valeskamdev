@@ -3,7 +3,7 @@
 
  <div align="left"  >  
   <img src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif"  width="250"  align="right"  alt="Formando img"/>
-  <br><br>
+
    
   👋 Olá, pessoal! Me chamo Valeska, uma admiradora da tecnologia e apaixonada por programação <br> <br>
   🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) no Descomplica  <br> <br>
@@ -12,10 +12,8 @@
  
  </div>
 
----
+ <h2>Interaja comigo</h2>
 
- <p align="left">
-   <p>Interaja comigo</p>
   <a href="https://wa.me/5511967023986?text=Ol%C3%A1+Valeska%2C+gostaria+de+conversar+com+voc%C3%AA%21">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   
@@ -27,7 +25,6 @@
 
    <a href ="https://www.instagram.com/valeskamdev/" >
    <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</p>  
 
 <br><br>
 
