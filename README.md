@@ -1,8 +1,9 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&animation=twinkling"/> 
+<h1>💫 Sobre mim</h2>
 
-
- <div align="left"  width="200px">  
-  <img src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif" width="400"  align="right"  alt="Formando img"/>
+ <div align="left"  >  
+  <img src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif"  width="250"  align="right"  alt="Formando img"/>
+  <br><br>
    
   👋 Olá, pessoal! Me chamo Valeska, uma admiradora da tecnologia e apaixonada por programação <br> <br>
   🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) no Descomplica  <br> <br>
@@ -11,7 +12,8 @@
  
  </div>
 
- ---
+---
+
  <p align="left">
    <p>Interaja comigo</p>
   <a href="https://wa.me/5511967023986?text=Ol%C3%A1+Valeska%2C+gostaria+de+conversar+com+voc%C3%AA%21">
